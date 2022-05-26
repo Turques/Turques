@@ -1,6 +1,8 @@
 <span align="center">
   
-### Hello World! Eu sou o Wesley Turques 👋
+### <img src="https://user-images.githubusercontent.com/90362739/170495505-82516432-5cff-4ade-a530-9cd7c65630e3.gif">Hello World! Eu sou o Wesley Turques
+  
+</span>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=turques&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -9,7 +11,7 @@
   <img align="center" alt="Turques-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Turques-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
   <img align="center" alt="Turques-Flask" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
-  <img align="right" alt="Turques-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="Turques-pic" height="150" style="border-radius:65px;" src="https://user-images.githubusercontent.com/90362739/170494942-7e3f7829-5754-4466-8421-985254d4656f.png">
 </div>
 </div>
 
@@ -21,3 +23,7 @@
 - 🤔 Parcerias de estudo sao bem-vindas
 - 📫 Email de contato - turquesw@gmail.com
 - 😄 Pronome: ele/dele
+
+##
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
