@@ -1,6 +1,6 @@
 <span align="center">
   
-### <img src="https://user-images.githubusercontent.com/90362739/170495505-82516432-5cff-4ade-a530-9cd7c65630e3.gif">Hello World! Eu sou o Wesley Turques
+### <img src="https://user-images.githubusercontent.com/90362739/170495505-82516432-5cff-4ade-a530-9cd7c65630e3.gif"> Hello World! Eu sou o Wesley Turques
   
 </span>
 
@@ -26,4 +26,8 @@
 
 ##
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  
+<img src="https://user-images.githubusercontent.com/90362739/170496806-20ffaec5-32c5-4b82-8c4b-389aeefa1696.svg">
+  
+</div>
