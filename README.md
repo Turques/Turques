@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello World! Eu sou o Wesley Turques 👋
 
-<!--
-**Turques/Turques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=turques&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=turques&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🔭 Estou trabalhando em projetos sozinho para fins de Estudo voltado ao Back-End
+- 🌱 Estudando: Python, Django, Flask, MySQL
+- 👯 Busco parcerias tanto para estudo quanto projetos de nivel Jr
+- 🤔 Parcerias de estudo sao bem-vindas
+- 📫 Email de contato - turquesw@gmail.com
+- 😄 Pronome: ele/dele
 - ⚡ Fun fact: ...
 -->
