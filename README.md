@@ -22,7 +22,7 @@
   
 - 🔭 Estou trabalhando em projetos sozinho para fins de Estudo voltado ao Back-End
 - 🌱 Estudando: Python, Django, Flask, MySQL
-- 👯 Busco parcerias tanto para estudo quanto projetos de nivel Jr
+- 👯 Busco parcerias tanto para meus estudos quanto projetos de nível Jr
 - 🤔 Parcerias de estudo sao bem-vindas
 - 📫 Email de contato - turquesw@gmail.com
 - 😄 Pronome: ele/dele
