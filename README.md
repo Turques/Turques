@@ -19,7 +19,7 @@
   ##
   
 - 🔭 Estou trabalhando em projetos sozinho para fins de Estudo voltado ao Back-End
-- 🌱 Estudando: Python, Django, Flask, MySQL
+- 🌱 Estudando: HTML5, CSS3 e JavaScript.
 - 👯 Busco parcerias tanto para meus estudos quanto projetos de nível Jr
 - 🤔 Parcerias de estudo sao bem-vindas
 - 📫 Email de contato - turquesw@gmail.com
@@ -28,7 +28,7 @@
 ##
 
 <div align="center">
-  <a href="https://instagram.com/dixturques" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/turques.wes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.twitch.tv/turques" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://discordapp.com/users/7162" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:turquesw@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
