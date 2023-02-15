@@ -17,7 +17,7 @@
 </div>
 
   ##
-- 💼 <a href="https://wesleyturques.netlify.app">Link para meu Portfolio [fase de acabamento] </a>
+- 💼 <a href="https://wesleyturques.netlify.app" target="_blank">Link para meu Portfolio [fase de acabamento] </a>
 - 🔭 Estou trabalhando em projetos sozinho para fins de Estudo voltado ao Back-End
 - 🌱 Estudando: HTML5, CSS3 e JavaScript.
 - 👯 Busco parcerias tanto para meus estudos quanto projetos de nível Jr
