@@ -11,9 +11,7 @@
 ##
 
 <div align="Left">
-  <img align="center" alt="Turques-Python" height="40" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Turques-Django" height="40" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
-  <img align="center" alt="Turques-Flask" height="40" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
+
   <img align="right" alt="Turques-pic" height="150" style="border-radius:65px;" src="https://user-images.githubusercontent.com/90362739/170494942-7e3f7829-5754-4466-8421-985254d4656f.png">
 </div>
 </div>
