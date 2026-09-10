@@ -1,41 +1,63 @@
-<span align="center">
-  
-### <img src="https://user-images.githubusercontent.com/90362739/170495505-82516432-5cff-4ade-a530-9cd7c65630e3.gif"> Hello World! Eu sou o Wesley Turques
-  
-</span>
+## Wesley Turques
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=turques&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-</div>
+**Analista de TI na V.tal.** Mais de 10 anos entre suporte técnico, redes e
+infraestrutura — Service Desk N1/N2, Active Directory, Microsoft 365, Intune.
+Rio de Janeiro, RJ. Fora do expediente, construo e publico meus próprios
+aplicativos.
 
-##
+🔗 **[wesleyturques.netlify.app](https://wesleyturques.netlify.app)** · [Currículo em PDF](https://wesleyturques.netlify.app/curriculo-wesley-turques.pdf)
 
-<div align="Left">
+---
 
-  <img align="right" alt="Turques-pic" height="150" style="border-radius:65px;" src="https://user-images.githubusercontent.com/90362739/170494942-7e3f7829-5754-4466-8421-985254d4656f.png">
-</div>
-</div>
+### O que eu construí
 
-  ##
-- 💼 <a href="https://wesleyturques.netlify.app" target="_blank">Link para meu Portfolio [fase de acabamento] </a>
-- 🔭 Estou trabalhando em projetos sozinho para fins de Estudo voltado ao Back-End
-- 🌱 Estudando: HTML5, CSS3 e JavaScript.
-- 👯 Busco parcerias tanto para meus estudos quanto projetos de nível Jr
-- 🤔 Parcerias de estudo sao bem-vindas
-- 📫 Email de contato - turquesw@gmail.com
-- 😄 Pronome: ele/dele
+**Switch Bird** — ferramenta de auditoria de redes Wi-Fi
+Aplicativo desktop que identifica o ponto de acesso conectado, mede desempenho
+e localiza o equipamento dentro da rede. Cerca de 30 versões publicadas, com
+instalador assinado, atualização automática e build por GitHub Actions.
+`Tauri` `Rust` `React` `TypeScript` `Python`
+<!-- Se houver página pública de releases, o link entra aqui. -->
 
-##
+**[Fifth Finance](https://fifth-finance.web.app)** — aplicativo de finanças pessoais
+Importa extratos bancários em OFX e CSV e categoriza as transações
+automaticamente, com regras de confiança e detecção de duplicatas. Publicado
+como app instalável e empacotado para Android e iOS.
+`JavaScript` `Firebase` `Capacitor`
 
-<div align="center">
-  <a href="https://instagram.com/turques.wes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitch.tv/turques" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="https://discordapp.com/users/7162" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:turquesw@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/wesley-turques-541b47235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+---
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/90362739/170496806-20ffaec5-32c5-4b82-8c4b-389aeefa1696.svg">
-  
-</div>
+### No trabalho
+
+Analista de TI na V.tal desde jun/2025, no projeto Rollout: substituição de
+notebooks corporativos mantendo a continuidade dos processos. No dia a dia,
+suporte presencial e remoto de Nível 1 e 2 via Service Desk, administração de
+contas e permissões no Active Directory e no ambiente Microsoft 365 / Azure,
+preparo e gestão de notebooks via Intune, e migração de softwares.
+
+Antes disso, mais de uma década como técnico autônomo — manutenção, implantação
+de redes e servidores locais, e sistemas de CFTV IP e controle de acesso sobre
+rede: switches PoE, endereçamento e NVR.
+
+Formado em Análise e Desenvolvimento de Sistemas pelo Centro Universitário
+UniCarioca.
+
+---
+
+### Stack
+
+**Infraestrutura e suporte**
+`Active Directory` `Microsoft 365` `Azure` `Intune` `FortiClient VPN` `Windows`
+`Redes e Cabeamento` `Servidores Locais` `CFTV IP` `Controle de Acesso`
+
+**Desenvolvimento**
+`JavaScript` `TypeScript` `React` `Rust` `Tauri` `Python` `Firebase` `Git` `CI/CD`
+
+---
+
+### Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-turques-541b47235/)
+[![Email](https://img.shields.io/badge/turquesw@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:turquesw@gmail.com)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-080607?style=for-the-badge&logo=netlify&logoColor=C8102E)](https://wesleyturques.netlify.app)
+
+Aberto a oportunidades na área de tecnologia, no Rio de Janeiro ou remoto.
